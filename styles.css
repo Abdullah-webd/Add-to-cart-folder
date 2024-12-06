@@ -1,0 +1,67 @@
+.edlogo{
+    width: 150px;
+    border-radius: 80px;
+}
+header{
+    display: flex;
+    align-items: center;
+    column-gap: 800px;
+}
+.pagelink{
+    display: flex;
+    column-gap: 100px;
+    align-items: center;
+}
+.num{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.addcart{
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(186, 205, 211);
+}
+.home{
+    color: blue;
+    text-decoration: none;
+}
+.cloth{
+    width: 500px;
+}
+.buttoons{
+    display: flex;
+    column-gap: 30px;
+    margin-top: 20px;
+}
+.content{
+    position: absolute;
+    left: 30%;
+}
+.cart{
+    width: 100px;
+}
+.add{
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(186, 205, 211);
+}
+.subs{
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(186, 205, 211);
+}
+.numsed{
+    color: black;
+    margin-top: 5px;
+}
+.donebutton{
+    padding: 10px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(186, 205, 211);
+}

@@ -31,17 +31,28 @@ header{
 .cloth{
     width: 500px;
 }
+.orgpic{
+    padding-bottom: 0px;
+}
 .buttoons{
     display: flex;
     column-gap: 30px;
-    margin-top: 20px;
 }
 .content{
     position: absolute;
-    left: 30%;
+    left: 20%;
 }
 .cart{
     width: 100px;
+}
+.select{
+    background-color: white;
+    border: none;
+}
+.control{
+    position: absolute;
+    left: 50%;
+    bottom: 1px;
 }
 .add{
     padding: 10px;
@@ -64,4 +75,14 @@ header{
     border-radius: 30px;
     border: none;
     background-color: rgb(186, 205, 211);
+}
+.difdesign{
+    width: 200px;
+}
+.cont{
+    display: flex;
+    column-gap: 50px;
+}
+.sidepic{
+    display: grid;
 }
